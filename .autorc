@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "hoangpq14736",
+  "repo": "container-fz-ltr8",
+  "name": "hoangpq14736",
+}
